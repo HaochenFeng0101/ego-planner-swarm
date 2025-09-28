@@ -7,3 +7,20 @@ src/CMakeLists.txt
 benchmark_haha.zip
 rebound_planner_BB.zip
 
+# ROS 2 workspace directories
+/log
+/install
+
+# Large binary files
+*.mesh
+*.stl
+*.obj
+*.ply
+*.zip
+*.tar.gz
+*.tar
+*.7z
+*.rar
+
+# VS Code
+.vscode.zip
